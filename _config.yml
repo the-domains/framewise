@@ -1,0 +1,28 @@
+name: Framewise
+favicon: null
+layout_spectrum: 0.3180883356835693
+typography_spectrum: 0.5330808961298317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7999874907545745
+  lightness: 0.046743066515773535
+  saturation: 0.2605141706299037
+  rhythmicContrast: 0.37267820816487074
+purpose: []
